@@ -23,9 +23,5 @@ This project documents the design of an RC glider from concept to aerodynamic an
 
 <img width="295" height="268" alt="Screenshot 2026-07-31 at 10 26 40 AM" src="https://github.com/user-attachments/assets/b526efe9-c4d5-4327-9bb5-1041d144d83e" />
 
-
-
-
-
 #### Airfoil Analysis
 - The Clark Y airfoil was analyzed in XFLR5 to evaluate lift generation over a range of angles of attack. This analysis helped confirm that the airfoil was appropriate for a slow-flying RC glider.
