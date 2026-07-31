@@ -1,3 +1,4 @@
+<img width="897" height="536" alt="Screenshot 2026-07-31 at 10 49 33 AM" src="https://github.com/user-attachments/assets/abc279ed-7993-4119-aca5-1d3a1a8eb822" />
 
 # RC Glider Design
 
@@ -26,9 +27,8 @@ This project documents the design of an RC glider from concept to aerodynamic an
 
 <img width="295" height="268" alt="Screenshot 2026-07-31 at 10 26 40 AM" src="https://github.com/user-attachments/assets/b526efe9-c4d5-4327-9bb5-1041d144d83e" />
 
-#### Pressure Distribution
-- CFD simulations were performed in SimScale to visualize pressure distribution over the aircraft. Lower pressure above the wing and higher pressure below indicate lift generation consistent with aerodynamic theory.
+#### Lift Prediction
+- CFD simulations were performed to estimate the aerodynamic forces acting on the aircraft. Under the simulated flight conditions, the model produced approximately 4.5 N of lift, providing a quantitative assessment of its expected performance.
 
-<img width="483" height="241" alt="Screenshot 2026-07-31 at 10 37 50 AM" src="https://github.com/user-attachments/assets/65372a8e-d797-442b-bfee-0bf262004d84" />
-
+<img width="897" height="536" alt="Screenshot 2026-07-31 at 10 49 33 AM" src="https://github.com/user-attachments/assets/abc279ed-7993-4119-aca5-1d3a1a8eb822" />
 
