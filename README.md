@@ -3,6 +3,8 @@
 
 *A complete aircraft design project using CAD, aerodynamic analysis, and CFD.*
 <img width="440" height="265" alt="Screenshot 2026-07-31 at 10 20 40 AM" src="https://github.com/user-attachments/assets/26243dd0-891f-40c8-a5b3-dd1d815b5561" />
+Final CAD Model
+The aircraft was modeled in FreeCAD with a focus on simplicity, lightweight construction, and aerodynamic efficiency. The design incorporates a Clark Y wing, conventional tail configuration, and foamboard-compatible geometry.
 
 
 
@@ -17,6 +19,5 @@ This project documents the design of an RC glider from concept to aerodynamic an
 - CFD (SimScale)
 - XFLR5
 - <img width="295" height="268" alt="Screenshot 2026-07-31 at 10 26 40 AM" src="https://github.com/user-attachments/assets/b526efe9-c4d5-4327-9bb5-1041d144d83e" />
-  
 - Aircraft Stability
 - Engineering Design
