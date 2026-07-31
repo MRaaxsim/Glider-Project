@@ -1,3 +1,4 @@
+<img width="295" height="268" alt="Screenshot 2026-07-31 at 10 26 40 AM" src="https://github.com/user-attachments/assets/b526efe9-c4d5-4327-9bb5-1041d144d83e" />
 # RC Glider Design
 
 *A complete aircraft design project using CAD, aerodynamic analysis, and CFD.*
@@ -15,5 +16,6 @@ This project documents the design of an RC glider from concept to aerodynamic an
 - Aerodynamics
 - CFD (SimScale)
 - XFLR5
+  <img width="295" height="268" alt="Screenshot 2026-07-31 at 10 26 40 AM" src="https://github.com/user-attachments/assets/b526efe9-c4d5-4327-9bb5-1041d144d83e" />
 - Aircraft Stability
 - Engineering Design
