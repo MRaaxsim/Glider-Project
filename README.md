@@ -54,3 +54,6 @@ This project documents the design of an RC glider from concept to aerodynamic an
 | Airfoil | Clark Y | 
 | Software | FreeCAD, XLR5, SimScale |
 
+#### Lessons Learned
+- Through this project I learned basic aerodynamic principles like aerodynamic center, neutral points, and center of gravity as well as how to find the tail volumes. I also learned how to use CFD and XFLR5 for the first time while refining my FreeCAD skills. 
+
