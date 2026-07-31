@@ -38,6 +38,7 @@ This project documents the design of an RC glider from concept to aerodynamic an
 - Streamlines were used to examine how air flows around the aircraft and to identify regions of smooth flow and potential separation.
   
 <img width="365" height="156" alt="Screenshot 2026-07-31 at 10 41 49 AM" src="https://github.com/user-attachments/assets/99b1f796-6a41-4c0f-bd85-7bfe34ba6a82" />
+<img width="292" height="209" alt="Screenshot 2026-07-31 at 11 07 58 AM" src="https://github.com/user-attachments/assets/45d25dfd-b3ce-4898-a6dc-1710c29f3006" />
 
 ## Velocity Distribution
 - Airflow accelerates over the upper surface of the wing, increasing velocity and contributing to the pressure differential that generates lift.
