@@ -21,12 +21,14 @@ This project documents the design of an RC glider from concept to aerodynamic an
 - Aircraft Stability
 - Engineering Design
 
-<img width="295" height="268" alt="Screenshot 2026-07-31 at 10 26 40 AM" src="https://github.com/user-attachments/assets/b526efe9-c4d5-4327-9bb5-1041d144d83e" />
-
 #### Airfoil Analysis
 - The Clark Y airfoil was analyzed in XFLR5 to evaluate lift generation over a range of angles of attack and Reynolds Number. This analysis helped confirm that the airfoil was appropriate for a slow-flying RC glider.
 
-<img width="483" height="241" alt="Screenshot 2026-07-31 at 10 37 50 AM" src="https://github.com/user-attachments/assets/65372a8e-d797-442b-bfee-0bf262004d84" />
+<img width="295" height="268" alt="Screenshot 2026-07-31 at 10 26 40 AM" src="https://github.com/user-attachments/assets/b526efe9-c4d5-4327-9bb5-1041d144d83e" />
 
 #### Pressure Distribution
 - CFD simulations were performed in SimScale to visualize pressure distribution over the aircraft. Lower pressure above the wing and higher pressure below indicate lift generation consistent with aerodynamic theory.
+
+<img width="483" height="241" alt="Screenshot 2026-07-31 at 10 37 50 AM" src="https://github.com/user-attachments/assets/65372a8e-d797-442b-bfee-0bf262004d84" />
+
+
