@@ -3,8 +3,8 @@
 
 *A complete aircraft design project using CAD, aerodynamic analysis, and CFD.*
 <img width="440" height="265" alt="Screenshot 2026-07-31 at 10 20 40 AM" src="https://github.com/user-attachments/assets/26243dd0-891f-40c8-a5b3-dd1d815b5561" />
-Final CAD Model
-The aircraft was modeled in FreeCAD with a focus on simplicity, lightweight construction, and aerodynamic efficiency. The design incorporates a Clark Y wing, conventional tail configuration, and foamboard-compatible geometry.
+# Final CAD Model
+- The aircraft was modeled in FreeCAD with a focus on simplicity, lightweight construction, and aerodynamic efficiency. The design incorporates a Clark Y wing, conventional tail configuration, and foamboard-compatible geometry.
 
 
 
