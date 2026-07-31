@@ -1,4 +1,3 @@
-<img width="897" height="536" alt="Screenshot 2026-07-31 at 10 49 33 AM" src="https://github.com/user-attachments/assets/abc279ed-7993-4119-aca5-1d3a1a8eb822" />
 
 # RC Glider Design
 
@@ -31,4 +30,10 @@ This project documents the design of an RC glider from concept to aerodynamic an
 - CFD simulations were performed to estimate the aerodynamic forces acting on the aircraft. Under the simulated flight conditions, the model produced approximately 4.5 N of lift, providing a quantitative assessment of its expected performance.
 
 <img width="897" height="536" alt="Screenshot 2026-07-31 at 10 49 33 AM" src="https://github.com/user-attachments/assets/abc279ed-7993-4119-aca5-1d3a1a8eb822" />
+
+#### Flow Visualization
+- Streamlines were used to examine how air flows around the aircraft and to identify regions of smooth flow and potential separation.
+  
+<img width="365" height="156" alt="Screenshot 2026-07-31 at 10 41 49 AM" src="https://github.com/user-attachments/assets/99b1f796-6a41-4c0f-bd85-7bfe34ba6a82" />
+
 
