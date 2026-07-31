@@ -40,9 +40,17 @@ This project documents the design of an RC glider from concept to aerodynamic an
 <img width="365" height="156" alt="Screenshot 2026-07-31 at 10 41 49 AM" src="https://github.com/user-attachments/assets/99b1f796-6a41-4c0f-bd85-7bfe34ba6a82" />
 <img width="292" height="209" alt="Screenshot 2026-07-31 at 11 07 58 AM" src="https://github.com/user-attachments/assets/45d25dfd-b3ce-4898-a6dc-1710c29f3006" />
 
-## Velocity Distribution
+#### Velocity Distribution
 - Airflow accelerates over the upper surface of the wing, increasing velocity and contributing to the pressure differential that generates lift.
   
 <img width="271" height="134" alt="Screenshot 2026-07-31 at 11 01 30 AM" src="https://github.com/user-attachments/assets/26a6a538-3223-436b-ad52-1e004eb194fe" />
 
+#### Aircraft Parameters Table
+| **Parameter** | **Value** |
+|:--:|:--:|
+| Wingspan | 45 cm |
+| Wing Area | 196.875 cm²| 
+| Weight | 60 g | 
+| Airfoil | Clark Y | 
+| Software | FreeCAD, XLR5, SimScale |
 
