@@ -1,3 +1,4 @@
+<img width="271" height="134" alt="Screenshot 2026-07-31 at 11 01 30 AM" src="https://github.com/user-attachments/assets/26a6a538-3223-436b-ad52-1e004eb194fe" />
 
 # RC Glider Design
 
@@ -35,5 +36,10 @@ This project documents the design of an RC glider from concept to aerodynamic an
 - Streamlines were used to examine how air flows around the aircraft and to identify regions of smooth flow and potential separation.
   
 <img width="365" height="156" alt="Screenshot 2026-07-31 at 10 41 49 AM" src="https://github.com/user-attachments/assets/99b1f796-6a41-4c0f-bd85-7bfe34ba6a82" />
+
+## Velocity Distribution
+- Airflow accelerates over the upper surface of the wing, increasing velocity and contributing to the pressure differential that generates lift.
+  
+<img width="271" height="134" alt="Screenshot 2026-07-31 at 11 01 30 AM" src="https://github.com/user-attachments/assets/26a6a538-3223-436b-ad52-1e004eb194fe" />
 
 
