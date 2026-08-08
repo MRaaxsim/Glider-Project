@@ -1,6 +1,6 @@
 
 
-# RC Glider Design
+#  Glider Design
 
 *A complete aircraft design project using CAD, aerodynamic analysis, and CFD.*
 
